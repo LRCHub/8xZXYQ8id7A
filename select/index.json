@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "BLAZING",
+  "base_artist": "GARNiDELiA",
+  "createdAt": "2025-12-11T11:41:02.051069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Guns Blazing",
+      "artist": "Judas Priest",
+      "has_synced": false,
+      "path": "select/01_All_Guns_Blazing_Judas_Priest.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Guns Blazing (Bonus)",
+      "artist": "Sabaton",
+      "has_synced": true,
+      "path": "select/02_All_Guns_Blazing_(Bonus)_Sabaton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Guns Blazing",
+      "artist": "Sabaton",
+      "has_synced": true,
+      "path": "select/03_All_Guns_Blazing_Sabaton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guns Blazing (Drums of Death, Pt. 1)",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/04_Guns_Blazing_(Drums_of_Death,_Pt._1)_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blazing Saddles (Remastered)",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/05_Blazing_Saddles_(Remastered)_Yello.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blazing Saddles (Remastered 2005)",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/06_Blazing_Saddles_(Remastered_2005)_Yello.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guns Blazing (Drums Of Death Pt. 1)",
+      "artist": "UNKLE, Kool G Rap, Lyrics Born & Lateef The Truthspeaker",
+      "has_synced": true,
+      "path": "select/07_Guns_Blazing_(Drums_Of_Death_Pt._1)_UNKLE,_Kool_G_Rap,_Lyrics_Born_&_Lateef_The_Truthspeaker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blazing Arrow",
+      "artist": "Blackalicious",
+      "has_synced": false,
+      "path": "select/08_Blazing_Arrow_Blackalicious.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fear of the unknown and The Blazing Sun",
+      "artist": "Colin Stetson",
+      "has_synced": true,
+      "path": "select/09_Fear_of_the_unknown_and_The_Blazing_Sun_Colin_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Guns Blazing (Drums of Death, Part 1)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/10_Guns_Blazing_(Drums_of_Death,_Part_1)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Bolt of Blazing Gold",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/11_A_Bolt_of_Blazing_Gold_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Blazing Demondome of Murmurs and Secrecy",
+      "artist": "Diabolical Masquerade",
+      "has_synced": false,
+      "path": "select/12_The_Blazing_Demondome_of_Murmurs_and_Secrecy_Diabolical_Masquerade.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Guns Blazing",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/13_All_Guns_Blazing_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blazing Waters",
+      "artist": "Leaves' Eyes",
+      "has_synced": true,
+      "path": "select/14_Blazing_Waters_Leaves'_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blazing Waters - 2020 Version",
+      "artist": "Leaves' Eyes",
+      "has_synced": false,
+      "path": "select/15_Blazing_Waters_-_2020_Version_Leaves'_Eyes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blazing a Trail",
+      "artist": "Diabulus In Musica",
+      "has_synced": true,
+      "path": "select/16_Blazing_a_Trail_Diabulus_In_Musica.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Read My Mind - Pet Shop Boys Stars Are Blazing Mix",
+      "artist": "The Killers",
+      "has_synced": false,
+      "path": "select/17_Read_My_Mind_-_Pet_Shop_Boys_Stars_Are_Blazing_Mix_The_Killers.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Read My Mind (Pet Shop Boys Stars Are Blazing Mix)",
+      "artist": "The Killers",
+      "has_synced": false,
+      "path": "select/18_Read_My_Mind_(Pet_Shop_Boys_Stars_Are_Blazing_Mix)_The_Killers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BLAZING",
+      "artist": "GARNiDELiA",
+      "has_synced": false,
+      "path": "select/pl_01_BLAZING_GARNiDELiA.txt"
+    }
+  ]
+}
